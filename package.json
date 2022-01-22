@@ -20,7 +20,7 @@
     "lodash": "^4.17.15",
     "module-alias": "^2.2.2",
     "multi-progress": "^2.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "progress": "^2.0.3",
     "ssh2-sftp-client": "^5.0.2",
     "uuid": "^3.4.0",
